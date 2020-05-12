@@ -8,6 +8,9 @@ As this is a program showcasing database usage, the login database already has a
 The chatbot currently has no further function beyond logging in as of current.
 
 File differences:
+
 receiveLine is the latest and primary file.
+
 receiveLine_auto_login is one of the previous versions made with csv and pandas for a database system.
+
 receiveLine_auto_login_mongo is the same as above but replaced pandas for mongodb as a database system.
