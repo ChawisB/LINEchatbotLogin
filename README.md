@@ -1,6 +1,8 @@
 # LINEchatbotLogin
 A chatbot made to run on the LINE application.
 
+The current mongodb linked to this database is no longer in use and the cluster used has since been disabled. If the cluster can somehow still be accessed rest assured there is no critical data inside as it is primarily just a test cluster.
+
 A chatbot which does not rely on web login but done through LINE's own flex messages. This project aims to show database incorporation into a program as well as other features related to the chatbot. This chatbot possesses a rich menu as well as a quick reply menu upon successfully logging in. Note: Rich menu has a delay before it appears and disappears.
 
 Limitations/issues:
